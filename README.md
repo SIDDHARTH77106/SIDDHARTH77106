@@ -3,7 +3,7 @@
 
 - 💻 Interested in Website Developer.
 
-- 🌱 Currently learning React and its frameworks (Js.node).
+- 🌱 Currently learning javascript and its frameworks (React.js).
   
 - 📫 Reach me at siddharthgautam77106@gmail.com
 
@@ -15,7 +15,7 @@
 <a href="https://instagram.com/https://https://www.instagram.com/aman_singh_63?igsh=OW04dTJvYnk2emJl" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="https://https://www.instagram.com/aman_singh_63?igsh=OW04dTJvYnk2emJl" height="30" width="40" /></a>
 
 <h4 align="left">Portfolio Website:</h4>
-<a href="https://sidharthgautam.netlify.app/ target="blank"><img align="center" src="https://github.com/shubhangdutta96/Portfolio-Website/blob/main/assets/portfolioProject2.jpg" alt="https://linkedin.com/in/siddharth-gautam-a01732230" height="55" width="55" /></a>
+<a href="https://sidharthgautam.netlify.app/ target="blank"><img align="center" src="https://github.com/shubhangdutta96/Portfolio-Website/blob/main/assets/portfolioProject2.jpg" alt="https://sidharthgautam.netlify.app/" height="55" width="55" /></a>
 
 </p>
 
