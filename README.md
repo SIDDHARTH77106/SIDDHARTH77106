@@ -1,35 +1,78 @@
-<h1 align="center">Namaste...🙏</h1>
-<h2 align="center">I am Siddharth Gautam</h2>
-
-- 💻 Interested in Website Developer.
-
-- 🌱 Currently learning javascript and its frameworks (React.js).
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Namaste...🙏&fontSize=50&fontAlignY=35&animation=twinkling" width="100%"/>
   
-- 📫 Reach me at siddharthgautam77106@gmail.com
+  <h1>I am Siddharth Gautam</h1>
+  <h3>🚀 MERN Stack Developer | React.js Enthusiast</h3>
+  
+  <p>
+    <i>"Focused on building clean, scalable UI and writing maintainable code."</i>
+  </p>
 
+  <p>
+    <a href="https://linkedin.com/in/siddharth-gautam-a01732230" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:siddharthgautam77106@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://sidharthgautam.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://instagram.com/YOUR_USERNAME_HERE" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Connect with me</h3>
-<h4 align="left">Social Contacts:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/siddharth-gautam-a01732230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/siddharth-gautam-a01732230" height="30" width="40" /></a>
-<a href="https://instagram.com/https://https://www.instagram.com/aman_singh_63?igsh=OW04dTJvYnk2emJl" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="https://https://www.instagram.com/aman_singh_63?igsh=OW04dTJvYnk2emJl" height="30" width="40" /></a>
+---
 
-<h4 align="left">Portfolio Website:</h4>
-<a href="https://sidharthgautam.netlify.app/" target="blank"><img align="center" src="https://github.com/shubhangdutta96/Portfolio-Website/blob/main/assets/portfolioProject2.jpg"  height="55" width="55" /></a>
+### 👨‍💻 About Me
 
-</p>
+Hello! [cite_start]I am a motivated **Web Developer** from **Kasganj, Uttar Pradesh**[cite: 2]. [cite_start]I have a strong foundation in **Electronics (B.Tech)** [cite: 11] but my passion lies in coding and software development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a>
-<!-- <a href="https://docs.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scala-Light.svg" alt="Scala" width="40" height="40"/> </a> -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Htmx-Dark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript" width="40" height="40"/> </a>
-<!-- <a href="https://docs.spring.io/spring-boot/documentation.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="SpringBoot" width="40" height="40"/> </a> -->
-<!-- <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman API" width="40" height="40"/> </a> -->
-<!-- <a href="https://akka.io/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/OlegIlyenko/scala-icon/blob/master/akka-icon.png" alt="bootstrap" width="40" height="40"/> </a> -->
-<!-- <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" width="40" height="40"/> </a> -->
-</p>
-</p>
+- 🔭 **I’m currently working on:** Full Stack Web Development (MERN).
+- 🌱 **I’m currently learning:** Advanced React Patterns & System Design.
+- 👯 **I’m looking to collaborate on:** Open Source React Projects.
+- 💬 **Ask me about:** React.js, Tailwind CSS, JavaScript, C++.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+[cite_start]I possess technical expertise in the following technologies[cite: 13]:
+
+<div align="center">
+
+| **Frontend** | **Backend & Databases** | **Languages & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,js" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=cpp,java,git,github,vscode,postman" /> |
+
+</div>
+
+---
+
+### 📂 Key Projects
+
+[cite_start]Here are some of the projects I have developed[cite: 20]:
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Jay Construction** (Live) | [cite_start]A responsive website featuring an **Admin Dashboard** for user management, invoice generation with **PDF export**, and automated email integration using Email.JS[cite: 22, 23]. | React.js, CSS, Email.JS |
+| **E-commerce Website** | [cite_start]A product listing platform with reusable components, a responsive layout, and a clean architecture optimized for all screen sizes[cite: 30]. | React.js, Tailwind CSS |
+| **Energy Meter (IoT)** | [cite_start]A wireless energy meter system that sends real-time readings using ESP32 microcontroller and sensors[cite: 36, 38]. | ESP32, C++, IoT |
+| **Portfolio** | [cite_start]My personal portfolio website featuring a dark theme and animated UI components[cite: 33]. | HTML, CSS, JS |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160" alt="Siddharth's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="160" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&animation=twinkling"/>
+</div>
