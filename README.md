@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Namaste...🙏&fontSize=50&fontAlignY=35&animation=twinkling" width="100%"/>
-  
-  <h1>I am Siddharth Gautam</h1>
-  <h3>🚀 MERN Stack Developer | React.js Enthusiast</h3>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Siddharth%20Gautam&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Intern+%40+DW+Innovation;React.js+%26+MERN+Enthusiast;Building+Scalable+UI" alt="Typing SVG" />
+  </a>
+
   <p>
-    <i>"Focused on building clean, scalable UI and writing maintainable code."</i>
+    <i>"Transforming ideas into reality through code."</i>
   </p>
 
   <p>
@@ -18,7 +19,7 @@
     <a href="https://sidharthgautam.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://instagram.com/YOUR_USERNAME_HERE" target="_blank">
+    <a href="https://www.instagram.com/aman_singh_63" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
@@ -28,18 +29,20 @@
 
 ### 👨‍💻 About Me
 
-Hello! [cite_start]I am a motivated **Web Developer** from **Kasganj, Uttar Pradesh**[cite: 2]. [cite_start]I have a strong foundation in **Electronics (B.Tech)** [cite: 11] but my passion lies in coding and software development.
+Namaste! 🙏 I am a passionate **Software Engineer** originally from **Kasganj, Uttar Pradesh**. 
 
-- 🔭 **I’m currently working on:** Full Stack Web Development (MERN).
-- 🌱 **I’m currently learning:** Advanced React Patterns & System Design.
-- 👯 **I’m looking to collaborate on:** Open Source React Projects.
-- 💬 **Ask me about:** React.js, Tailwind CSS, JavaScript, C++.
+After completing my **B.Tech in Electronics (ECE)** from **Haridwar**, I moved to **Pune** to kickstart my career. Currently, I am working as a **Software Intern** at **DW Innovation**, where I contribute to building robust web solutions.
+
+- 🏢 **Current Role:** Intern at **DW Innovation**, Pune.
+- 🔭 **Working on:** Advanced MERN Stack Applications & Real-world Industrial Projects.
+- 🌱 **Learning:** System Design, Advanced React Patterns, and Backend Optimization.
+- 💬 **Tech Interests:** React.js, Tailwind CSS, JavaScript, C++.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-[cite_start]I possess technical expertise in the following technologies[cite: 13]:
+My digital toolkit involves:
 
 <div align="center">
 
@@ -53,26 +56,24 @@ Hello! [cite_start]I am a motivated **Web Developer** from **Kasganj, Uttar Prad
 
 ### 📂 Key Projects
 
-[cite_start]Here are some of the projects I have developed[cite: 20]:
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Jay Construction** (Live) | [cite_start]A responsive website featuring an **Admin Dashboard** for user management, invoice generation with **PDF export**, and automated email integration using Email.JS[cite: 22, 23]. | React.js, CSS, Email.JS |
-| **E-commerce Website** | [cite_start]A product listing platform with reusable components, a responsive layout, and a clean architecture optimized for all screen sizes[cite: 30]. | React.js, Tailwind CSS |
-| **Energy Meter (IoT)** | [cite_start]A wireless energy meter system that sends real-time readings using ESP32 microcontroller and sensors[cite: 36, 38]. | ESP32, C++, IoT |
-| **Portfolio** | [cite_start]My personal portfolio website featuring a dark theme and animated UI components[cite: 33]. | HTML, CSS, JS |
+| **Jay Construction** (Live) | A responsive website featuring an **Admin Dashboard** for user management, invoice generation with **PDF export**, and automated email integration. | React.js, CSS, Email.JS |
+| **E-commerce Website** | A product listing platform with reusable components, a responsive layout, and a clean architecture optimized for all screen sizes. | React.js, Tailwind CSS |
+| **Energy Meter (IoT)** | A wireless energy meter system that sends real-time readings using ESP32 microcontroller and sensors. | ESP32, C++, IoT |
+| **Portfolio** | My personal portfolio website featuring a dark theme and animated UI components. | HTML, CSS, JS |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160" alt="Siddharth's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDHARTH77106&show_icons=true&theme=radical&hide_border=true" height="160" alt="Siddharth's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHARTH77106&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Made%20with%20❤️%20at%20DW%20Innovation&fontSize=20&animation=twinkling"/>
 </div>
