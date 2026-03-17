@@ -16,7 +16,7 @@
     <a href="mailto:siddharthgautam77106@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://sidharthgautam.netlify.app/" target="_blank">
+    <a href="https://siddharth-dev-pi.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.instagram.com/aman_singh_63" target="_blank">
@@ -31,12 +31,12 @@
 
 Namaste! 🙏 I am a passionate **Software Engineer** originally from **Kasganj, Uttar Pradesh**. 
 
-After completing my **B.Tech in Electronics (ECE)** from **Haridwar**, I moved to **Pune** to kickstart my career. Currently, I am working as a **Software Intern** at **DW Innovation**, where I contribute to building robust web solutions.
+After completing my **B.Tech in Electronics (ECE)** from **Haridwar**, I moved to **Pune** to kickstart my career. Currently, I am working as a **Software Intern** at **DW Innovation**, where I contribute to building robust, production-ready web solutions for real clients.
 
 - 🏢 **Current Role:** Intern at **DW Innovation**, Pune.
 - 🔭 **Working on:** Advanced MERN Stack Applications & Real-world Industrial Projects.
 - 🌱 **Learning:** System Design, Advanced React Patterns, and Backend Optimization.
-- 💬 **Tech Interests:** React.js, Tailwind CSS, JavaScript, C++.
+- 💬 **Tech Interests:** React.js, Tailwind CSS, JavaScript, Node.js, C++.
 
 ---
 
@@ -54,14 +54,28 @@ My digital toolkit involves:
 
 ---
 
-### 📂 Key Projects
+### 🏢 Professional Projects (DW Innovation)
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Jay Construction** (Live) | A responsive website featuring an **Admin Dashboard** for user management, invoice generation with **PDF export**, and automated email integration. | React.js, CSS, Email.JS |
-| **E-commerce Website** | A product listing platform with reusable components, a responsive layout, and a clean architecture optimized for all screen sizes. | React.js, Tailwind CSS |
-| **Energy Meter (IoT)** | A wireless energy meter system that sends real-time readings using ESP32 microcontroller and sensors. | ESP32, C++, IoT |
-| **Portfolio** | My personal portfolio website featuring a dark theme and animated UI components. | HTML, CSS, JS |
+*Below are the live, production-level websites I have developed for our clients at DW Innovation, focusing on scalable UI and responsive design.*
+
+| Project | Description | Live Link | Tech Stack |
+| :--- | :--- | :---: | :--- |
+| **APS Tech Enterprises** | Official corporate business website featuring a modern UI, optimized performance, and seamless user experience. | [🔗 View Live](https://www.apstechent.com/) | React.js, Tailwind CSS |
+| **Siddhivinayak Engineering** | Comprehensive industrial and engineering services portal with clean architecture and responsive layout. | [🔗 View Live](https://siddhivinayak-engineering-661w.vercel.app/) | React.js, Tailwind CSS |
+| **Indravolt Technology** | Digital platform developed for the tech and energy sector, emphasizing fast load times and dynamic components. | [🔗 View Live](https://indravolt-technology.vercel.app/) | React.js, UI/UX |
+| **Soloricaa** | Scalable web platform tailored for solar and energy business solutions. | [🔗 View Live](https://my-soloricaa.vercel.app/) | React.js, Tailwind CSS |
+| **Vida** | A sleek, modern corporate landing page showcasing products and business services. | [🔗 View Live](https://vida-sigma.vercel.app/) | React.js, CSS |
+| **Jay Construction** | A responsive web app featuring an **Admin Dashboard**, automated email integration, and invoice generation with **PDF export**. | *(Private)* | React.js, CSS, Email.JS |
+
+---
+
+### 📂 Personal & Other Projects
+
+| Project | Description | Live Link | Tech Stack |
+| :--- | :--- | :---: | :--- |
+| **Developer Portfolio** | My advanced personal portfolio showcasing my skills, live projects, and professional experience. | [🔗 View Live](https://siddharth-dev-pi.vercel.app/) | React.js, Tailwind CSS |
+| **E-commerce Website** | A product listing platform with reusable components and a clean architecture optimized for all screen sizes. | *(Repo)* | React.js, Tailwind CSS |
+| **Energy Meter (IoT)** | A wireless energy meter system that sends real-time readings using an ESP32 microcontroller and sensors. | *(Repo)* | ESP32, C++, IoT |
 
 ---
 
